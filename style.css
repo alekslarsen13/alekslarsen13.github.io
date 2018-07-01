@@ -265,7 +265,7 @@ input[type="image"] { background:transparent;border:none; }
 
 @font-face {
     font-family: 'Butler'; /*a name to be used later*/
-    src: url('kollektif-Bold.ttf'); /*URL to font*/
+    src: url('Kollektif-Bold.ttf'); /*URL to font*/
 }
 @font-face {
     font-family: 'Butler-Light'; /*a name to be used later*/
