@@ -166,16 +166,16 @@ input[type="image"] { background:transparent;border:none; }
 
 /* Twitter */
 .fa-twitter {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 .fa-envelope {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 .fa-medium {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 
 /*** Nav */
